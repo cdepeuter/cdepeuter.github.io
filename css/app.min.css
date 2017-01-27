@@ -624,12 +624,21 @@ body {
     width:50%;
 }
 
+.content__arrow{
+    margin-left: .25rem;
+}
+
+.content__tag.work{
+    margin-left: .5rem;
+}
+
 .profile-image-cropper {
     width: 200px;
     height: 200px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+    margin:auto;
 }
 
 img.profile-image {
